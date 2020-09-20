@@ -1,8 +1,6 @@
-##
+## Jigsaw is a static site generator.
 
 https://laracasts.com/series/static-site-generators/episodes/1
-
-Jigsaw is a static site generator.
 
 https://jigsaw.tighten.co/
 
